@@ -1,0 +1,47 @@
+<style>
+title {color:white;}
+head{background:blueviolet;}
+
+body
+{
+    background-color: aqua;
+    text-align:center;
+}
+
+h2 {color:darkviolet;
+    Margin:28px;
+    }
+
+h1 {color:palevioletred;
+    Margin:30px;
+    }
+
+#new {color:palevioletred;
+    Margin:30px;
+    }
+
+.one{color:palevioletred;
+    Margin:30px;
+    
+}
+div.one{text-align:center}
+ol.one {
+    display: inline-block;
+    text-align: l}
+
+.two{color:palevioletred;Margin:30px;
+    
+}
+div.two{text-align:center}
+ol.two {
+    display: inline-block;
+    text-align: l}
+
+.three{color:palevioletred;Margin:30px;
+    
+}
+img {width:30%;
+    }
+
+
+</style>
